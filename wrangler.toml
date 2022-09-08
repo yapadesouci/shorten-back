@@ -1,0 +1,7 @@
+name = "shorten"
+main = "src/index.ts"
+compatibility_date = "2022-09-06"
+
+kv_namespaces = [
+    { binding = "KV", id = "<prod_id>", preview_id = "<preview_id>" }
+]
